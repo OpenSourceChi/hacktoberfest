@@ -15,3 +15,5 @@
 ## Presentation
 
 To build the presentation run `make` and then open `index.html` in your browser.
+You will need `pandoc' installed, your friendly neighborhood package manager
+should have it...
