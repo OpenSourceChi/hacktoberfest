@@ -26,8 +26,6 @@
 
 ## Contributing patches
 
-FIXME: clean up all FIXMEs
-
 ## Before you start
 
 > Find the project community on IRC or Gitter or wherever, and say hi!
