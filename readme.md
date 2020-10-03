@@ -15,3 +15,12 @@
 ## Presentation
 
 To build the presentation run `make` and then open `index.html` in your browser.
+
+## Participants
+
+Thanks to everyone who's participating in this event with us! Please add your name below (via PR!)
+and practice your fork-branch-PR skills:
+
+* Ian Shipman
+* Kael Shipman
+* ....
