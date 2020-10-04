@@ -1,4 +1,4 @@
-# Open Source Chicago + Hacktoberfest -- An Awesome Project
+# Open Source Chicago + Hacktoberfest
 
 ## Tools and resources
 
